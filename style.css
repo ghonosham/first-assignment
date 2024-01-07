@@ -303,7 +303,7 @@ padding: 10px 0px;
     justify-content: space-between;
 }
 .second-section-controller{
-    position: absolute;
+    position: relative;
 }
 .gift-box{
     max-width: 550px;
@@ -315,4 +315,92 @@ padding: 10px 0px;
     position: absolute;
     right: 250px;
     top: 150px;
+}
+
+/* style 6 number of section */
+
+.section-6-container{
+    max-width: 1320px;
+    margin: 120px auto;
+}
+.sixth-section-contrller{
+    padding: 12px;
+}
+
+.gift-text{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.portifio-text{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding: 10px 0px;
+    }
+.portfilio-text-details{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    padding-right: 450px;
+}
+.all-images{
+    padding: 50px 0px 6px 0px;
+    display: flex;
+}
+.all-images-two{
+    padding: 6px 0px 50px 0px;
+    display: flex;
+}
+.common-images{
+    padding: 12px;
+}
+
+/* style 7th number section */
+
+.section-7-container{
+    max-width: 1320px;
+    margin: 120px auto;
+    border-radius: 16px;
+    background-color: rgba(255, 0, 0, 0.05);
+}
+
+.seven-section-controller{
+    padding: 80px 210px;
+    text-align: center;
+}
+.email-images{
+    width: 150px;
+    height: 150px;
+}
+.newslatter-text{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding: 40px 0px 20px 0px;
+}
+.newslatter-description{
+    max-width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.email-form{
+    padding: 50px 0px;
+
+}
+.input-area{
+    padding: 15px;
 }
