@@ -71,3 +71,248 @@
     width: 800px;
     height: 500px;
 }
+
+/* sttle 2 number of section */
+
+.section-2-container{
+    max-width: 1320px;
+    max-height: 600px;
+    margin: 120px auto;
+    background-image: url(resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+.text-container{
+    padding: 100px;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);;
+    border-radius: 16px;
+}
+.welcome-text{
+    color: #fff;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    padding-bottom: 25px;
+}
+.tex-details{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 50px;
+}
+.btn-text{
+    background-color: transparent;
+    border: 0px;
+    padding-left: 20px;
+}
+.btn-text a {
+    color: #fff;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.party-night-image{
+    width: 320px;
+    height: 465px;
+    padding: 65px 120px;
+}
+
+/* style 3 number of section */
+
+.section-3-container{
+    max-width: 1320px;
+    max-height: 482px;
+    margin: 120px auto;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
+    border-radius: 16px;
+
+
+}
+
+.text-container-3{
+    padding: 100px 380px;
+    text-align: center;
+}
+
+.text-decorate span{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: capitalize;
+   
+}
+
+.text-details-text{
+    color: #070211;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 45px;
+
+}
+.text-decorate{
+    padding-bottom: 45px;
+}
+
+.btn-text-3{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background: #F00;
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: 0px;
+}
+
+.btn-text-3 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+/* style 4 number of section */
+
+.section-4-container{
+    margin: 120px auto;
+    max-width: 1320px;
+}
+
+.main-container-control{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ .text-info{
+    text-align: left;
+}
+.primary-text{
+    color: #F00;
+    font-family: Inter;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.text-info{
+    max-width: 400px;
+    
+}
+.new-year{
+    max-width: 280px;
+    align-items: center;
+}
+.offer-text{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding: 10px 0px;
+}
+.text-details{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    
+}
+
+.border-image-controller{
+    border: 8px solid #F00;
+    padding: 20px;
+    border-radius: 100%;
+}
+.middle-image{
+    width: 300px;
+    height: 300px
+
+}
+.year-text{
+    color: #F00;
+    font-size: 42px;
+    font-family: Inter;
+    font-weight: 700;
+    
+}
+
+.year-text-details{
+        color: rgba(7, 2, 17, 0.60);
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 28px;
+        padding: 10px 0px 40px 0px;
+}
+/* style 5 number of section */
+
+.section-5-container{
+    max-width: 1320px;
+    margin: 120px auto;
+}
+
+.main-controller{
+    max-width: 850px;
+    margin: 0 auto;
+}
+.functional-text{
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+text-align: center;
+}
+
+.sale-text span{
+    color: #F00;
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+text-align: center;
+}
+
+.sale-text{
+    color: #070211;
+font-size: 72px;
+font-weight: 900;
+text-align: center;
+padding: 10px 0px;
+}
+.sale-text-details{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+}
+.imges-control{
+    display: flex;
+    padding-top: 70px;
+    justify-content: space-between;
+}
+.second-section-controller{
+    position: absolute;
+}
+.gift-box{
+    max-width: 550px;
+   position: relative;
+   top: 180px;
+   left: 140px;
+}
+.discount{
+    position: absolute;
+    right: 250px;
+    top: 150px;
+}
