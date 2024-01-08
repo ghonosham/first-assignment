@@ -359,7 +359,12 @@ padding: 10px 0px;
 }
 .common-images{
     padding: 12px;
+    filter: grayscale(0%);
 }
+.common-images:hover{
+    filter: grayscale(60%);
+}
+
 
 /* style 7th number section */
 
@@ -413,7 +418,7 @@ padding: 10px 0px;
 .subscription-controller input{
     font-size: 18px;
     color: #000;
-    padding: 24px 56px;
+    padding: 24px 30px;
     border: none;
     border-radius: 50px;
     outline: none;
